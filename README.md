@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/abraham098/3-column-peview-card](https://github.com/abraham098/3-column-peview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://abraham098.github.io/3-column-peview-card/](https://abraham098.github.io/3-column-peview-card/)
 
 
 ### Built with
